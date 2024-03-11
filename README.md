@@ -1,6 +1,6 @@
 ## Realização e Entrega
 
-Este projeto foi realizado por [Alan Kelvin](), [Antony Thiago](https://github.com/antonyt8) e [Lucas Pereira](https://github.com/lucaspda-1).
+Este projeto foi realizado por [Alan Kelvin](https://github.com/alankelvin-dev), [Antony Thiago](https://github.com/antonyt8) e [Lucas Pereira](https://github.com/lucaspda-1).
 
 
 # Cálculo de Médias Móveis - Projeto de Estruturas de Dados
