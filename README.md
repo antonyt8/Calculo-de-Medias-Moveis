@@ -48,7 +48,7 @@ https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-complet
 https://cursos.alura.com.br/forum/topico-duvida-sobre-iteraveis-e-__iter__-161648
 
 ### Comentário da equipe sobre se conseguiu ou não realizar tudo o que foi proposto:
-- Acho que sim professor , só ficamos com dúvida a respeito de como seria a saída no console do programa e como seria para salvar as médias móveis , então colocamos para salvar no arquivo por [] e no console separamos os valores por virgula.
+- Acho que sim professor , só ficamos com dúvida a respeito de como seria a saída no console do programa e como seria para salvar as médias móveis.
 
 ### Comentário destacando possíveis problemas identificados no código, dificuldades encontradas na escrita e/ou funcionalidades que deveriam ser implementadas, mas não foram.
 - Não tava conseguindo iterar sobre o deque mas a gente viu que tem um método especial para fazer iterar que é o 
