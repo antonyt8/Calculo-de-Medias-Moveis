@@ -1,0 +1,31 @@
+Grupo: Alan Kelvin,Antony Tiago,Lucas Pereira
+
+link dos Materias consultados:
+
+https://panda.ime.usp.br/panda/static/pythonds_pt/03-EDBasicos/15-Deques.html
+https://www.w3schools.com/python/python_file_open.asp
+https://www.instagram.com/reel/C2pFq9NOZar/?igsh=MnYwbWNlbnJ4aXd0
+https://classroom.google.com/c/NjM4MTQ4ODM1NjYw/m/NjM4MTQ4ODM1NzMz/details
+https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/learn/lecture/21139490?start=225#overview
+https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/learn/lecture/21139484#overview
+https://cursos.alura.com.br/forum/topico-duvida-sobre-iteraveis-e-__iter__-161648
+
+comentário da equipe sobre se conseguiu ou não realizar tudo o que foi
+proposto
+
+Acho que sim professor , só ficamos com dúvida a respeito de como seria a saída no console do programa e como seria para salvar as médias móveis , então colocamos para salvar no arquivo por [] e no console separamos os valores por virgula.
+
+
+comentário destacando possíveis problemas identificados no código,
+dificuldades encontradas na escrita e/ou funcionalidades que deveriam ser
+implementadas, mas não foram.
+
+Não tava conseguindo iterar sobre o deque mas a gente viu que tem um método especial para fazer iterar que é o 
+__iter__(). Mas depois mudamos o jeito de fazer a media movel pois tava dando errado. Também não sabiamos como tinha que abrir e ler o arquivo no python com o open.
+
+comentário da equipe sobre o desempenho do cálculo da média móvel
+considerando a notação Big O
+
+Como tem um  laço for iterando sobre todos os elementos da lista uma vez, resultando em uma complexidade de tempo de O(n), com isso no pior caso vai conferir elemento por elemento 1 , por 1.
+
+
